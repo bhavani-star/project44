@@ -1,0 +1,45 @@
+<html>
+<body>
+
+<h2>HTML Forms</h2>
+ <label for="">gender  :</label><br>
+<input><br>
+</form> 
+
+<form> 
+  <label for="">Your Num :</label><br>
+<input line="text" line="lname" line="lname" line=""><br>
+</form> 
+  <label for="">Your date of birth  :</label><br>
+<input line="text" line="lname" line="lname" line=""><br>
+</form> 
+ <label for="">your favorate food :</label><br>
+<input line="text" line="lname" line="lname" line=""><br>
+</form> 
+<form> 
+  <label for="">Your Best Friend :</label><br>
+<input line="text" line="lname" line="lname" line=""><br>
+</form>
+
+
+
+<form action="https://us.123rf.com/450wm/outchill/outchill2105/outchill210503436/169696396-submitted-text-written-on-green-wooden-frame-school-blackboard-.jpg?ver=6">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value=""><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value=""><br><br>
+ 
+</form> 
+
+<p>I asked thease all because if i dont tell me wheare the treasure is i will kill ur friend and u </p>
+ <label for="">Where is the trasure :</label><br>
+<input line="text" line="lname" line="lname" line=""><br>
+ <input type="submit" value="Submit">
+</form>
+
+
+
+<p>"This Is Done By Vikranth Kumar"</p>
+
+</body>
+</html>
